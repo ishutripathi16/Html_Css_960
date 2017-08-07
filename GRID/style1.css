@@ -1,0 +1,63 @@
+article img {
+	float: left;
+	margin-right: 20px;
+
+}
+
+h2 {
+	font-size: 39px ;
+	line-height: 43px ;
+}
+
+article h2 {
+	margin-top: 0;
+}
+
+a {
+	color: blue;
+}
+
+.first {
+	background-color: grey;
+}
+
+.preview {
+	float: left;
+	width: 850px;
+	height: 535px;
+}
+
+.footer {
+	background-color: lightblue;
+	text-align: center;
+	clear:both;
+}
+
+.another {
+	background-color: grey;
+}
+
+.another article img {
+	float: right;
+	margin-right: 20px;
+
+}
+
+.another h2 {
+	font-size: 39px ;
+	line-height: 43px ;
+}
+
+.another article h2 {
+	margin-top: 0;
+}
+
+.another a {
+	color: blue;
+}
+
+.another .preview {
+	float: right;
+	width: 850px;
+	height: 535px;
+}

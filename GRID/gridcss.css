@@ -1,0 +1,128 @@
+.wrap img {
+	margin-left: 655.5px;
+}
+
+header {
+	background-color: grey;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+	border-right: 1px solid #bbb;
+}
+
+li:last-child {
+	border-right: none;
+}
+
+li a {
+
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	text-decoration: underline;
+	background-color: red;
+}
+
+.second {
+	margin-top: 25px;
+	height: 500px;
+}
+
+.hero {
+	margin-top: 50px;
+	margin-left: 200px;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-image: url("http://www.coolplaces.co.uk/system/images/2205/oxford-seedo-oxford-new-theatre-rainy-day-2205-large.jpg");
+	width: 1250px;
+	height: 600px;
+}
+
+.hero a {
+	color: grey;
+	text-decoration: none;
+}
+
+.hero p {
+	font-size: 50PX;
+	margin-top: 275px;
+	margin-left: 10px;
+	margin-right: 50px;
+	text-align: center;
+	color: solid black
+}
+
+.partition {
+	background-color: grey;
+	margin-bottom: 5px;
+}
+
+.partition1 {
+	width: 33%;
+	height: 300px;
+	float: left;
+	background-color: grey;
+	margin-right: 5px;
+}
+
+.partition2{
+	float: left;
+	height: 300px;
+	margin-right: 5px;
+	background-color: grey;
+	width: 33%;
+}
+
+.partition3 {
+	float: left;
+	margin-right: 5px;
+	height: 300px;
+	width: 33%;
+	background-color: grey;
+}
+
+.partition4 {
+	margin-top: 70px;
+	width: 33%;
+	height: 300px;
+	float: left;
+	background-color: grey;
+	margin-right: 5px;
+}
+
+.partition5 {
+	margin-top: 70px;
+	width: 33%;
+	height: 300px;
+	float: left;
+	background-color: grey;
+	margin-right: 5px;
+}
+
+.partition6 {
+	margin-top: 70px;
+	width: 33%;
+	height: 300px;
+	float: left;
+	background-color: grey;
+	margin-right: 5px;
+}
+
+.footer {
+	background-color: lightblue;
+	text-align: center;
+}
